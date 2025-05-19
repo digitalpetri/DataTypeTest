@@ -6,7 +6,7 @@
 
   <groupId>com.digitalpetri.opcua</groupId>
   <artifactId>data-type-test</artifactId>
-  <version>0.3-SNAPSHOT</version>
+  <version>0.3</version>
 
   <name>DataTypeTest</name>
   <description>DataType test types and UANodeSet XML file.</description>
